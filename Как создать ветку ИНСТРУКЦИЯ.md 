@@ -17,7 +17,11 @@ git commit -m "lab<N>: сдача — <ФИО> (@<github-username>)"
 
 Отправь ветку на GitHub
 
-git push -u origin student/<github-username>/lab-<N>
+*ПУШИТЬ СТРОГО ПОСЛЕ ПРОВЕРКИ И ПОСЛЕ ЗАПОЛНЕНИЯ ОТЧЕТА*
+
+git push -u origin student/<github-username>/lab-<N> 
+
+*ПУШИТЬ СТРОГО ПОСЛЕ ПРОВЕРКИ И ПОСЛЕ ЗАПОЛНЕНИЯ ОТЧЕТА*
 
 
 Создай Pull Request (PR)
